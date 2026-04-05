@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/CLMar/Documents/Unreal Projects/Dart1/Content/Characters/gridGeneration.uasset",
+				"C:/Users/CLMar/Documents/Unreal Projects/Dart1/Content/tileMapping/NewPaperTileMap.uasset",
+				"C:/Users/CLMar/Documents/Unreal Projects/Dart1/Content/tileMapping/NewPaperTileSet.uasset",
+				"C:/Users/CLMar/Documents/Unreal Projects/Dart1/Content/playingField.umap",
+				"C:/Users/CLMar/Documents/Unreal Projects/Dart1/Content/gridGenerator_v2/BP_tile.uasset",
+				"C:/Users/CLMar/Documents/Unreal Projects/Dart1/Content/gridGenerator_v2/generator.uasset",
+				"C:/Users/CLMar/Documents/Unreal Projects/Dart1/Content/Characters/Beacon.uasset",
+				"C:/Users/CLMar/Documents/Unreal Projects/Dart1/Content/Controls/basicClick.uasset",
+				"C:/Users/CLMar/Documents/Unreal Projects/Dart1/Content/Controls/General.uasset",
+				"C:/Users/CLMar/Documents/Unreal Projects/Dart1/Content/Controls/basicTouch.uasset",
+				"C:/Users/CLMar/Documents/Unreal Projects/Dart1/Content/Gamemode.uasset",
+				"C:/Users/CLMar/Documents/Unreal Projects/Dart1/Content/Player/playerController.uasset",
+				"C:/Users/CLMar/Documents/Unreal Projects/Dart1/Content/Player/basicPawn.uasset",
+				"C:/Users/CLMar/Documents/Unreal Projects/Dart1/Content/Characters/Mannequins/Meshes/tile.uasset",
+				"C:/Users/CLMar/Documents/Unreal Projects/Dart1/Content/gridGenerator_v2/tile.uasset",
+				"C:/Users/CLMar/Documents/Unreal Projects/Dart1/Content/Characters/Trying.uasset"
+			]
+		}
+	]
+}
